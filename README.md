@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,cpp,go,python,django,fastapi,qt,tensorflow,postgresql,sqlite,mongodb,rabbitmq,git,docker,nginx,postman,selenium,sentry,html,css,vscode,atom,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
