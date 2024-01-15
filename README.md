@@ -2,7 +2,7 @@
 <h3 align="center">A student from Uzbekistan</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adham20080" alt="Ahmadjon" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Adham20080" alt="Ahmadjon" /></a> </p>
 
 - ⚡ A fact: I like codeing
 
