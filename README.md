@@ -11,9 +11,16 @@
 <h3 align="center">A student from Uzbekistan</h3>
 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Adham20080" alt="Ahmadjon" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adham20080&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+</a>
 
-- ⚡ A fact: I like codeing
+- 👋 Again Hi, I’m Ahmadjon
+- ⚡️ A fact: I like codeing
+- 👀 I’m interested in Programming!
+- 🌱 I’m currently learning Python programming language, AI and Django framework
+- 💞️ I’m looking to collaborate on Python!
+- 📫 Telegram: @Ahmadjon_Abdulfotiyev
 
 
 <p align="center">
