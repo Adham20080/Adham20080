@@ -6,7 +6,7 @@
 <p><a href="https://github.com/Adham20080">
 <img alt="Follow Ahmadjon" src="https://img.shields.io/static/v1?label=Follow&message=Adham20080&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
 <a href="https://t.me/Rasmlar_va_malumotlar_uz">
-<img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a> </p>
+<img alt="Join Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a> </p>
 
 <h3 align="center">A student from Uzbekistan</h3>
 
@@ -20,7 +20,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adham20080&theme=2077&utcOffset=5"><br><br>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham20080&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 
