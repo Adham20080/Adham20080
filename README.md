@@ -21,14 +21,13 @@
 - 🌱 I’m currently learning Python programming language, AI and Django framework
 - 💞️ I’m looking to collaborate on Python!
 - 📫 Telegram: @Ahmadjon_Abdulfotiyev
-</a>
 
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adham20080&theme=2077&utcOffset=5"><br><br>
-</p></a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,11 +35,12 @@
 <a href="https://www.youtube.com/@robotoproprogramtexno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robotoproprogramtexno" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmadjon-abdulfotih-222a6a2a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adham20080" height="30" width="40" /></a>
 <a href="https://twitter.com/AAbdulfotih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AAbdulfotih" height="30" width="40" /></a>
-</p></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
-</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p></a>
+[![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
