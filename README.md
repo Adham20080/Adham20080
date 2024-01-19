@@ -22,6 +22,7 @@
 - 💞️ I’m looking to collaborate on Python!
 - 📫 Telegram: @Ahmadjon_Abdulfotiyev
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=I'm+Back-end+Developer+%E2%9C%94%EF%B8%8F;I'm+Web+Developer+%F0%9F%8C%90" alt="Typing SVG" /></a>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham20080&theme=2077">
