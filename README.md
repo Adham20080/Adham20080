@@ -3,6 +3,8 @@
 <div align="center">
 <h2>I'm Coder of PYTHON 👨‍💻 </h1></div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=I'm+Back-end+Developer+⌨️;I'm+Web+Developer+🖲;I'm+Python+Developer+🐍" alt="Typing SVG" /></a>
+
 <p><a href="https://github.com/Adham20080">
 <img alt="Follow Ahmadjon" src="https://img.shields.io/static/v1?label=Follow&message=Adham20080&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
 <a href="https://t.me/Rasmlar_va_malumotlar_uz">
@@ -22,14 +24,10 @@
 - 💞️ I’m looking to collaborate on Python!
 - 📫 Telegram: @Ahmadjon_Abdulfotiyev
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=I'm+Back-end+Developer+⌨️;I'm+Web+Developer+🖲;I'm+Python+Developer+🐍" alt="Typing SVG" /></a>
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adham20080&theme=2077&utcOffset=5"><br><br><p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 </p>
 
 
