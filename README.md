@@ -42,6 +42,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
 
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham20080&layout=compact" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
