@@ -42,7 +42,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,ps,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
 
 <details>
 <summary>Github Stats two ⚡</summary>
