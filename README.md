@@ -24,12 +24,14 @@
 - 💞️ I’m looking to collaborate on Python!
 - 📫 Telegram: @Ahmadjon_Abdulfotiyev
 
+<details>
+<summary>Github Stats ⚡</summary>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adham20080&theme=2077">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adham20080&theme=2077&utcOffset=5"><br><br><p align="center">
 </p>
-
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,8 +44,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
 
+<details>
+<summary>Github Stats two ⚡</summary>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham20080&layout=compact" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
+</details>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
