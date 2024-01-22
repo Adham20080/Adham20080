@@ -33,6 +33,13 @@
 </p>
 </details>
 
+<details>
+<summary>Github Stats two ⚡</summary>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham20080&layout=compact" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@robotoproprogramtexno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robotoproprogramtexno" height="30" width="40" /></a>
@@ -43,12 +50,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,cpp,python,django,fastapi,ps,qt,postgresql,sqlite,mongodb,git,html,css,vscode,linkedin)](https://skillicons.dev)
-
-<details>
-<summary>Github Stats two ⚡</summary>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham20080&layout=compact" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adham20080&show_icons=true&locale=en" alt="Adham20080" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adham20080&" alt="Adhma20080" /></p>
-</details>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
