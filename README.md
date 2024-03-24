@@ -10,7 +10,7 @@
 <a href="https://youtube.com/@robotoproprogramtexno?si=xneUyJNgyZiyI_Kv">
 <img alt="Subscribe Youtube channel" src="https://img.shields.io/static/v1?label=Subscribe&message=Youtube-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a>
 <a href="https://t.me/Rasmlar_va_malumotlar_uz">
-<img alt="Join Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a> </p>
+<img alt="Join Telegram channel" src="https://img.shields.io/static/v1?label=Join&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a> </p>
 
 <h3 align="center">A student from Uzbekistan</h3>
 
