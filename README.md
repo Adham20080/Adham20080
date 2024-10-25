@@ -51,6 +51,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,arduino,discord,figma,github,ai,instagram,ps,pr,pycharm,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,cpp,python,django,fastapi,qt,postgresql,sqlite,mongodb,git,html,css,vscode,arduino,discord,figma,github,ai,instagram,ps,pr,pycharm,linkedin,dotnet,ideajavajs)](https://skillicons.dev)
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
